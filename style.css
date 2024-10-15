@@ -1,0 +1,36 @@
+html{
+
+    background-color: black;
+    color: white;
+    border-style: solid;
+    border-color: blue;
+    border-width: 10px 10px 0px 10px;
+}
+nav {
+
+    border-style: solid;
+    border-color: tan;
+    border-width: 4px 4px 4px 0px;
+}
+
+h1 {
+
+    text-align: center;
+    color: white;
+
+}
+
+a{
+
+    color: rgb(91, 91, 252);
+
+}
+
+#nav {
+
+float: left;
+border: 15px;
+border-style: solid;
+border-color: black;
+
+}
